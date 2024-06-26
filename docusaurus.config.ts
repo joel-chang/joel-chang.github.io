@@ -82,13 +82,21 @@ const config: Config = {
       style: 'light',
       links: [
         {
-          // title: 'Docs',
-          // items: [
-          //   {
-          //     label: 'Tutorial',
-          //     to: '/docs/intro',
-          //   },
-          // ],
+          title: 'Read',
+          items: [
+            {
+              label: 'Professional Experience',
+              to: '/job-experience',
+            },
+            {
+              label: 'Projects',
+              to: '/projects'
+            },
+            {
+              label: 'Personal Life',
+              to: '/personal-life'
+            }
+          ],
         },
         {
           title: 'Community',
