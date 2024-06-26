@@ -1,0 +1,19 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.singlefeature {
+  border-color: var(--ifm-color-primary-lightest);
+  border-width: 0.5rem;
+  border-style: solid;
+  box-shadow: 10px 10px 10px var(--ifm-color-primary-darkest);
+  padding: 1rem;
+}
