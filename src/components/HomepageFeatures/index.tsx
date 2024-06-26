@@ -25,20 +25,20 @@ const FeatureList: FeatureItem[] = [
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Random standalone projects for convenience and professional development.
+        Standalone projects for convenience and professional development.
       </>
     ),
     link: '/projects'
   },
   {
-    title: 'Personal Life',
+    title: 'About Me',
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        A little more about myself.
+        Get to know me.
       </>
     ),
-    link: '/personal-life'
+    link: '/about-me'
   },
 ];
 

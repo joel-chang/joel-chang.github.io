@@ -16,6 +16,7 @@
   border-style: solid;
   box-shadow: 10px 10px 10px var(--ifm-color-primary-darkest);
   padding: 1rem;
+  color: var(--ifm-color-primary-black);
 }
 
 

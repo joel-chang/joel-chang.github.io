@@ -94,7 +94,7 @@ const config: Config = {
             },
             {
               label: 'Personal Life',
-              to: '/personal-life'
+              to: '/about-me'
             }
           ],
         },
@@ -118,10 +118,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/joel-chang',
